@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I´m Amaya Jorge Lucas 👋
 
 - 🔭 I’m a FrontEnd Developer
 - 🌱 I’m currently learning Testting QA
